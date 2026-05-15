@@ -32,7 +32,7 @@ The repository is organized into the following main directories:
 
 We now provide an interactive 3D configurator to help you select the right parts for your specific hardware setup:
 
-- **[Launch Configurator (Beta)](Configurator/configurator.html)**
+- **[Launch Configurator (Beta)](https://sphinx-configurator.netlify.app/)**
 
 The configurator allows you to select your Version, Hotend, Extruder, Blower, and Rail type to visualize the assembly and ensure you download the correct parts from the `CAD/` directory.
 
